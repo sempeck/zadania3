@@ -22,7 +22,7 @@ begin
 			      suma := suma + 1/i;
 			    end; 
 			 
-		  writeln('Suma ciągu = ', suma:1:2);
+		  writeln('Suma ciagu = ', suma:1:2);
 
 	  writeln('Jeszcze raz? (t/n)');
 	  readln(tn);
